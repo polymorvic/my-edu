@@ -4,5 +4,6 @@
 media
 __pycache__/
 data/
+_old
 
 *.pyc
